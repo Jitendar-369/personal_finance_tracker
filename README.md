@@ -60,18 +60,7 @@ Home Page: Displays a list of all transactions with an option to add new ones.
 Add Transaction: Users can add a transaction by entering the date, category, amount, and a description.
 Search Transactions: Use the search bar to filter transactions based on date, category, or description.
 Delete Transaction: Click on the delete icon next to a transaction to remove it.
-File Structure
-personal-finance-tracker/
-│
-├── app.py                # Main Flask application
-├── models.py             # Database models
-├── templates/            # HTML templates
-│   ├── home.html         # Home page template
-│   ├── add_transaction.html  # Template for adding a new transaction
-│   └── ...
-├── static/               # Static files (CSS, images, JS)
-├── requirements.txt      # Project dependencies
-└── README.md             # This file
+
 Contributing
 If you'd like to contribute to this project, feel free to fork the repository, make changes, and create a pull request. Contributions are welcome to enhance the app's features or improve the code quality.
 
