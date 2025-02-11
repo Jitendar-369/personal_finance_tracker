@@ -66,5 +66,3 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 
 License
 This project is open-source and available under the MIT License. See the LICENSE file for more details.
-
-This version should be ready to copy-paste into your README.md file.
