@@ -1,7 +1,5 @@
 # Personal Finance Tracker
 
-
-
 ## Overview
 
 The **Personal Finance Tracker** is a simple web application built using Flask and SQLAlchemy to help users manage and track their personal finances. The app allows users to add, edit, and delete transactions, view transaction history, and categorize their expenses for better financial planning.
